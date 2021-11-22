@@ -1,0 +1,14 @@
+{
+  "1": {
+    "py/object": "Domain.localitate.Localitate",
+    "id_entity": "1",
+    "nume": "floresti",
+    "tip": "sat"
+  },
+  "2": {
+    "py/object": "Domain.localitate.Localitate",
+    "id_entity": "2",
+    "nume": "Cluj-napoca",
+    "tip": "oras"
+  }
+}

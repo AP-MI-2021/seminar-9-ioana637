@@ -1,0 +1,10 @@
+{
+  "1": {
+    "py/object": "Domain.ruta_autocar.RutaAutocar",
+    "id_entity": "1",
+    "id_oras_oprire": "2",
+    "id_oras_pornire": "1",
+    "pret": 5.6,
+    "dus_intors": false
+  }
+}
